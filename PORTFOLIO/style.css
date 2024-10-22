@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    margin: 5px 0;
+}
+
+table {
+    width: 100%;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+td {
+    padding: 20px;
+    background-color: lightgray;
+}
+
+h2 {
+    color: black;
+    margin-bottom: 10px;
+}
+
+img {
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    background-color: white;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid black;
+}
+
+button[type="submit"] {
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    width: 100%;
+}
